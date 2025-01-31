@@ -1,0 +1,6 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: BAAI-bge-large-zh-v1.5
+
+Files: BAAI-bge-large-zh-v1.5/gguf/ggml-model-f16.gguf
+Copyright: Copyright (c) 2022 staoxiao
+License: MIT

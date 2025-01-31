@@ -1,0 +1,7 @@
+{
+"verison":"0.1",
+"architectures":["BertModel", "Embedding"],
+"bin":"ggml-model-f16.gguf",
+"license":["LICENSE"],
+"params":{"--ctx-size":"512"}
+}

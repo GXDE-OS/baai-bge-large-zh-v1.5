@@ -1,0 +1,13 @@
+Source: baai-bge-large-zh-v1.5
+Section: misc
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Standards-Version: 3.9.8
+Homepage: http://www.deepin.org
+Build-Depends: debhelper (>= 9)
+
+Package: baai-bge-large-zh-v1.5
+Architecture: any
+Depends: ${misc:Depends}
+Description: BAAI-bge-large-zh-v1.5 model
+ BAAI bge large model for deepin modelhub.
